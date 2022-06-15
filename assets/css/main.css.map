@@ -1,8 +1,12 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AAAA,OAAO,CAAC,oHAAI",
     "sources": [
-        "../sass/main.scss"
+        "../sass/main.scss",
+        "../sass/helpers/_variables.scss",
+        "../sass/layout/_navbar.scss",
+        "../sass/layout/_header.scss",
+        "../sass/pages/_home.scss"
     ],
     "names": [],
     "file": "main.css"
