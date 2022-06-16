@@ -23,9 +23,11 @@
 }
 
 .worktext {
+  justify-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  color: red;
 }
 
 .workphotos p {
