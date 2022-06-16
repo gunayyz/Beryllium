@@ -1,56 +1,77 @@
-.navigation {
-    height: 70px;
-    width: 1000px;
-    background: red;
-  }
-.brand {
-    position: absolute;
-    padding-left: 20px;
-    float: left;
-    text-transform: uppercase;
-    font-size: 1.4em;
-    a,
-    a:visited {
-      text-decoration: none;
-    }
-  }
+.mynav{
+
+}
+.mynavcontext{
+
+}
+.mynavlogo{
+
+}
+.navitems{
+
+}
+
+
+
+
+
+
+
+
+
+// .navigation {
+//     height: 70px;
+//     width: 1000px;
+//     background: red;
+//   }
+// .brand {
+//     position: absolute;
+//     padding-left: 20px;
+//     float: left;
+//     text-transform: uppercase;
+//     font-size: 1.4em;
+//     a,
+//     a:visited {
+//       text-decoration: none;
+//     }
+//   }
   
-  // Container with no padding for navbar
-  .nav-container {
-    margin: 0 auto;
-  }
+//   // Container with no padding for navbar
+//   .nav-container {
+//     margin: 0 auto;
+//   }
   
-  // Navigation 
-  nav {
-    float: right;
-    ul {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      li {
-        float: left;
-        position: relative;
-        a,
-        a:visited {
-          display: block;
-          padding: 0 20px;
-          text-decoration: none;
-          &:hover {
+//   // Navigation 
+//   nav {
+//     float: right;
+//     ul {
+//       list-style: none;
+//       margin: 0;
+//       padding: 0;
+//       li {
+//         float: left;
+//         position: relative;
+//         a,
+//         a:visited {
+//           display: block;
+//           padding: 0 20px;
+//           text-decoration: none;
+//           &:hover {
           
-          }
-          &:not(:only-child):after {
-            padding-left: 4px;
-            content: ' ▾';
-          }
-        } // Dropdown list
-        ul li {
-          min-width: 190px;
-          a {
-            padding: 15px;
-            line-height: 20px;
-          }
-        }
-      }
-    }
-  }
+//           }
+//           &:not(:only-child):after {
+//             padding-left: 4px;
+//             content: ' ▾';
+//           }
+//         } // Dropdown list
+//         ul li {
+//           min-width: 190px;
+//           a {
+//             padding: 15px;
+//             line-height: 20px;
+//           }
+//         }
+//       }
+//     }
+//   }
   
